@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/avilash00k/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/avilash00k/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/avilash00k/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/avilash00k/LeetCode-Questions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/avilash00k/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/avilash00k/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/avilash00k/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/avilash00k/LeetCode-Questions/tree/master/0938-range-sum-of-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/avilash00k/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/avilash00k/LeetCode-Questions/tree/master/0938-range-sum-of-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -72,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/avilash00k/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/avilash00k/LeetCode-Questions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
