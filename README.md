@@ -13,4 +13,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/avilash00k/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
+## Array
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/avilash00k/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/avilash00k/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/avilash00k/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+## Sorting
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/avilash00k/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/avilash00k/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
